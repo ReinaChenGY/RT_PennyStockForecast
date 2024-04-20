@@ -1,2 +1,2 @@
 # RT_PennyStockForecast
-Real Time Analysis: Penny Stock Pump &amp; Dump Trading Strategy
+Real Time Intelligence: Penny Stock Pump &amp; Dump Trading Strategy
